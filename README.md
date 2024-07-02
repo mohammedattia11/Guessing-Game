@@ -1,5 +1,6 @@
 # Guess the number
 ---
+https://mohammedattia11.github.io/Guessing-Game/
 ## How to play 🤔
 - you have to guess a number between 1 and 20 and the guessed number must match the secret number and you have 20 attempt if you consumed all the 20 attempt you will lose 🫠 do your best to achieve the high score🫡
 ---
